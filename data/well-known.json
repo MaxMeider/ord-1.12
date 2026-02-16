@@ -2,12 +2,13 @@
     "openResourceDiscoveryV1": {
         "documents": [
             {
-                "url": "/ord/v1/documents/ord-document",
+                "url": "/open-resource-discovery/v1/documents/system-version",
                 "accessStrategies": [
                     {
                         "type": "open"
                     }
-                ]
+                ],
+                "perspective": "system-version"
             }
         ]
     }
